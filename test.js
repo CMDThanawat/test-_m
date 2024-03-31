@@ -4,3 +4,5 @@ const test ="1234sadcxzxczczzadxczxc"
 console.log(test);
 
 const test1 ="1234sadcxsszxczczzadxczxc"
+
+const test3 ="555555";
